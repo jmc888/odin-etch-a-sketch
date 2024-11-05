@@ -1,2 +1,2 @@
-# odin-etch-a-sketch-
+# odin-etch-a-sketch
 Odin JavaScript Project
